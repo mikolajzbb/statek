@@ -9,9 +9,9 @@
      - Strzałka w prawo - ruch łódki na wschód
   
    Mechanika żagla:
-     - żagiel automatycznie obraca się w stronę wiatru
+     - Żagiel automatycznie obraca się w stronę wiatru
   
    Wiatr:
-     - Wiatr jest generowany losowo w 8 kierunkach (N, NE, E, SE, S, SW, W, NW)
+     - Wiatr jest generowany losowo w 8 kierunkach o stopniach: 0, 45, 90, 135, 180, 225, 270, 315
      - Co jakiś czas wiatr się zmienia o jeden kierunek
      - Aktualny kierunek wiatru jest wyświetlany na ekranie za pomocą strzałki
